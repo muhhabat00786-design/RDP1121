@@ -1,4 +1,4 @@
-name: RDP1121
+name: RDP
 
 on:
   workflow_dispatch:
